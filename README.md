@@ -110,4 +110,4 @@
 
  ## License
 
- No license has been specified for this project yet.
+ MIT LICENSE
